@@ -5,7 +5,7 @@ Collection of materials created by the SAAS Education Committee for the purpose 
 
 Each semester in Career Exploration, we cover a wide breadth of topics. This semester, we go over:
 
-1. Intro to Datahub and Career Exploration
+1. Intro to Datahub and Jupyter
 2. Python
 3. Numpy/Pandas
 4. Visualizations
